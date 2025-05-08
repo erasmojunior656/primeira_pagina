@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Erasmo</title>
+</head>
+<body>
+    <h1>Currículo</h1>
+    <h2>Formação</h2>
+    <ul>
+        <li>Ciência Da Computação</li>
+        <li>Matemática Avançada</li>
+        <li>Educação Financeira</li>
+    </ul>
+    <h2>Cursos</h2>
+    <ol>
+        <li>Inglês</li>
+        <li>Espanhol</li>
+    </ol>
+    <h2>Linguagem Computacional</h2>
+    <ul>
+        <li>C</li>
+        <li>JavaScript</li>
+        <li>Html</li>
+        <li>Clss</li>
+    </ul>
+</body>
+</html>
